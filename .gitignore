@@ -1,0 +1,8 @@
+node_modules/
+dist/
+release/
+*.ppk
+*.zip
+*.key
+.env
+.DS_Store
