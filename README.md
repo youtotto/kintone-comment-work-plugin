@@ -14,7 +14,7 @@ kintone のコメントを、業務の記録としてもっと使いやすくす
 
 ## ダウンロードと導入
 
-[Releases](https://github.com/youtotto/kintone-comment-work-plugin/releases/latest) から次のファイルをダウンロードします。
+[Releases](https://github.com/youtotto/comment-work/releases/latest) から次のファイルをダウンロードします。
 
 | ファイル | 用途 |
 |---|---|
